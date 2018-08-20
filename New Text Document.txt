@@ -1,0 +1,2 @@
+shallow copy:- according to me the data object has its attributes copied to another object of the same data type but when we change in one attribute it  is reflected in another which is copy of that data object
+deep copy:-according to me the data object has its attributes copied to another object of the same data type but when we change in one attribute it  is not  reflected in another which is copy of that data object
